@@ -1,0 +1,4 @@
+love /home/path/to/gamedir/
+love /home/path/to/packagedgame.love
+
+explorer.exe
